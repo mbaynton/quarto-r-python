@@ -21,8 +21,6 @@ plot(x, y, main = "Scatter Plot", xlab = "X", ylab = "Y")
 ## Python Code Chunk
 
 ```{python}
-import time
-time.sleep(1200)
 
 # Python code chunk
 import numpy as np
